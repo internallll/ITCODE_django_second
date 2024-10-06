@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a14188ee-5fa6-4411-aa65-375b9d043b2b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="a14188ee-5fa6-4411-aa65-375b9d043b2b" name="Changes" comment="Completed second task from the EASY section">
+      <change afterPath="$PROJECT_DIR$/oop3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +48,7 @@
   "keyToString": {
     "Python.oop.executor": "Run",
     "Python.oop2.executor": "Run",
+    "Python.oop3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
@@ -71,6 +71,15 @@
       <option name="presentableId" value="Default" />
       <updated>1728043967211</updated>
     </task>
+    <task id="LOCAL-00001" summary="Completed second task from the EASY section">
+      <option name="closed" value="true" />
+      <created>1728145953208</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728145953208</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -83,5 +92,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Completed second task from the EASY section" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed second task from the EASY section" />
   </component>
 </project>
