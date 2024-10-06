@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a14188ee-5fa6-4411-aa65-375b9d043b2b" name="Changes" comment="Completed second task from the EASY section">
-      <change afterPath="$PROJECT_DIR$/oop3.py" afterDir="false" />
+    <list default="true" id="a14188ee-5fa6-4411-aa65-375b9d043b2b" name="Changes" comment="Completed third task">
+      <change afterPath="$PROJECT_DIR$/oop4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +49,7 @@
     "Python.oop.executor": "Run",
     "Python.oop2.executor": "Run",
     "Python.oop3.executor": "Run",
+    "Python.oop4.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
@@ -79,7 +80,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728145953208</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Completed third task">
+      <option name="closed" value="true" />
+      <created>1728213970940</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728213970940</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -95,6 +104,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Completed second task from the EASY section" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed second task from the EASY section" />
+    <MESSAGE value="Completed third task" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed third task" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/oop4.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
